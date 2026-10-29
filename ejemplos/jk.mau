@@ -1,0 +1,11 @@
+// MauScript
+
+var = 12
+d = 12
+
+if (var == d){
+    for .(4) {
+	var = (var + d) - 12 / 2	
+    }
+}
+
